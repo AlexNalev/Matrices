@@ -14,8 +14,8 @@ void count_even_odd_numbers(vector<int> numbers){
 		}
 	}
 	cout << "You have:\n";
-	cout << "- " << even_counter " even numbers in the array\n";
-	cout << "- " << odd_counter " odd numbers in the array\n";
+	cout << "- " << even_counter << " even numbers in the array\n";
+	cout << "- " << odd_counter << " odd numbers in the array\n";
 }
 
 
